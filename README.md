@@ -316,8 +316,6 @@ The project can be improved in the future by adding:
 
 ## 📸 Screenshots
 
-Screenshots of the following modules can be added here:
-
 ## Main menu
   The main menu provides options for user registration, user login, admin login, and exiting the system.
   
