@@ -319,13 +319,29 @@ The project can be improved in the future by adding:
 Screenshots of the following modules can be added here:
 
 * Main menu
-* User login
-* User dashboard
-* Complaint registration
-* Complaint ID generation
+  The main menu provides options for user registration, user login, admin login, and exiting the system.
+  <img width="1554" height="1016" alt="image" src="https://github.com/user-attachments/assets/c384ddca-f2db-4b2e-a266-d9ed18cd6665" />
+
+* User login & User dashboard
+  This screenshot shows successful user login and the user dashboard, which provides options to register, view, search, and manage complaints.
+<img width="1557" height="1015" alt="image" src="https://github.com/user-attachments/assets/56dce015-bb3f-4020-a93a-9f5be3c68ee3" />
+
+* Complaint registration & Complaint ID generation
+  This screenshot shows the process of registering a complaint by entering its title, description, category, and priority. The system automatically generates a      unique complaint ID for each registered complaint.
+  <img width="1557" height="1004" alt="image" src="https://github.com/user-attachments/assets/a95994b6-ce9b-4d28-977e-54a66dc54823" />
+
 * View complaints
+  This screenshot shows the complaints registered by the user, including the complaint ID, title, category, priority, and current status.
+<img width="1488" height="1017" alt="image" src="https://github.com/user-attachments/assets/c391c41e-8e93-4b81-a977-60eea33ffc2e" />
+
 * Search complaint
+  This screenshot shows how users can search for a complaint using its unique complaint ID and view the complaint details.
+<img width="1477" height="997" alt="image" src="https://github.com/user-attachments/assets/1aa86610-a92f-41f4-98c6-7754e25a0e55" />
+
 * Admin dashboard
+  This screenshot shows the administrator dashboard, which provides options to manage users, view complaints, update complaint status, and perform administrative    tasks.
+<img width="1482" height="990" alt="image" src="https://github.com/user-attachments/assets/f8d0ddc8-3afb-4aef-91ad-519cd84598f5" />
+
 
 ---
 
