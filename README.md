@@ -318,8 +318,8 @@ The project can be improved in the future by adding:
 
 Screenshots of the following modules can be added here:
 
-* Main menu
-**  The main menu provides options for user registration, user login, admin login, and exiting the system.
+# Main menu
+  The main menu provides options for user registration, user login, admin login, and exiting the system.
   
   <img width="1554" height="1016" alt="image" src="https://github.com/user-attachments/assets/c384ddca-f2db-4b2e-a266-d9ed18cd6665" />
 
