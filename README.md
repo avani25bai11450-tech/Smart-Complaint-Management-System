@@ -1,6 +1,6 @@
 # Smart Complaint Management System Using Java Collections and OOP
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Smart Complaint Management System** is a Java-based console application designed to help users register, manage, search, and track complaints in an organized way.
 
@@ -10,7 +10,7 @@ This system provides separate options for users and administrators. Users can re
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
@@ -26,9 +26,9 @@ The main objectives of this project are:
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 User Features
+###  User Features
 
 * New user registration
 * User login
@@ -44,7 +44,7 @@ The main objectives of this project are:
 * View latest complaint
 * Logout option
 
-### 🛠️ Admin Features
+###  Admin Features
 
 * Admin login
 * View registered users
@@ -59,7 +59,7 @@ The main objectives of this project are:
 
 ---
 
-## 🧑‍💻 Technologies Used
+##  Technologies Used
 
 * **Programming Language:** Java
 * **Concepts:** Object-Oriented Programming
@@ -72,7 +72,7 @@ The main objectives of this project are:
 
 ---
 
-## 🧠 Java Concepts Implemented
+##  Java Concepts Implemented
 
 This project demonstrates the following Java concepts:
 
@@ -120,7 +120,7 @@ Enums are used for fixed values such as:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Smart-Complaint-Management-System
@@ -156,7 +156,7 @@ Smart-Complaint-Management-System
 
 ---
 
-## 🔐 Admin Login Details
+##  Admin Login Details
 
 ```text
 Username: admin
@@ -165,7 +165,7 @@ Password: admin123
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Open the Project
 
@@ -197,7 +197,7 @@ Follow the options displayed in the console application.
 
 ---
 
-## 📝 Sample Working Flow
+##  Sample Working Flow
 
 ```text
 1. Start the application
@@ -214,7 +214,7 @@ Follow the options displayed in the console application.
 
 ---
 
-## 📊 Complaint Information
+##  Complaint Information
 
 Each complaint may contain the following information:
 
@@ -238,7 +238,7 @@ Status: PENDING
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 The project includes test classes for checking important manager operations.
 
@@ -254,7 +254,7 @@ These files help verify that user, admin, and complaint-related operations work 
 
 ---
 
-## 💾 Data Storage
+##  Data Storage
 
 The application uses file-based storage for maintaining records.
 
@@ -269,7 +269,7 @@ This allows the application to save information and load it again when the progr
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 The project can be improved in the future by adding:
 
@@ -287,7 +287,7 @@ The project can be improved in the future by adding:
 
 ---
 
-## ✅ Advantages
+##  Advantages
 
 * Easy to use
 * Simple console-based interface
@@ -306,7 +306,7 @@ The project can be improved in the future by adding:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ## Main menu
   The main menu provides options for user registration, user login, admin login, and exiting the system.
@@ -348,7 +348,7 @@ The **Smart Complaint Management System** provides a simple and efficient way to
 The project helps users register and track complaints while allowing administrators to manage complaint records in an organized manner. It can also be extended into a database-based or web-based application in the future.
 
 ---
-## 👩‍💻 Developer
+##  Developer
 
 **Name:** Avani Khare  
 **Course:** Computer Science and Engineering – Artificial Intelligence and Machine Learning  
