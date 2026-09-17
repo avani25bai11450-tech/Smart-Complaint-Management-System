@@ -300,14 +300,6 @@ The project can be improved in the future by adding:
 
 ---
 
-## 👩‍💻 Developer
-
-**Name:** Avani Khare
-**Course:** Computer Science and Engineering – Artificial Intelligence and Machine Learning
-**Project:** Smart Complaint Management System Using Java Collections and OOP
-
----
-
 ## 🔗 GitHub Repository
 
 [Smart Complaint Management System](https://github.com/avani25bai11450-tech/Smart-Complaint-Management-System)
@@ -354,3 +346,12 @@ The project can be improved in the future by adding:
 The **Smart Complaint Management System** provides a simple and efficient way to manage complaints using Java. It demonstrates the practical use of Object-Oriented Programming, Java Collections, enums, exception handling, and file handling.
 
 The project helps users register and track complaints while allowing administrators to manage complaint records in an organized manner. It can also be extended into a database-based or web-based application in the future.
+
+---
+## 👩‍💻 Developer
+
+**Name:** Avani Khare  
+**Course:** Computer Science and Engineering – Artificial Intelligence and Machine Learning  
+**Project:** Smart Complaint Management System Using Java Collections and OOP
+---
+
